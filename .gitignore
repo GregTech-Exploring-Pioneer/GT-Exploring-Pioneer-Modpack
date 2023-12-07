@@ -14,10 +14,11 @@ rhino.local.properties
 usercache.json
 usernamecache.json
 
+*.bak
+
 # include configs
 !config/
 !config/**
 
 !kubejs/
 !kubejs/**
-
