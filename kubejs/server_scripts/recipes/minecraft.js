@@ -10,4 +10,5 @@ ServerEvents.recipes(event => {
         'X': '#minecraft:logs'
     })
     
+    event.remove({input: 'farmersdelight:canvas', output: 'minecraft:book'})
 })

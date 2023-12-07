@@ -128,7 +128,7 @@ machines:
   # If true, progress will reset.
   # If false, progress will decrease to zero with 2x speed
   # Default: false
-  recipeProgressLowEnergy: false
+  recipeProgressLowEnergy: true
 
   # Whether to require a Wrench, Wirecutter, or other GregTech tools to break machines, casings, wires, and more.
   # Default: false
@@ -136,7 +136,7 @@ machines:
 
   # Whether machines explode in rainy weather or when placed next to certain terrain, such as fire or lava
   # Default: false
-  doTerrainExplosion: true
+  doTerrainExplosion: false
 
   # Whether machines or boilers damage the terrain when they explode.
   # Note machines and boilers always explode when overloaded with power or met with special conditions, regardless of this config.
@@ -189,7 +189,7 @@ machines:
 
   # Makes nearly every GCYM Multiblock require blocks which set their maximum voltages.
   # Default: false
-  enableTieredCasings: false
+  enableTieredCasings: true
 
   # Minimum distance between Long Distance Item Pipe Endpoints
   # Default: 50

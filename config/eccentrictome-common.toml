@@ -1,0 +1,20 @@
+
+#Common configuration settings
+[common]
+	#Allow all items to be added
+	allitems = true
+	#Disable overlay previewing tome conversion
+	disable_overlay = false
+	#Whitelisted items
+	items = ["botania:lexicon", "aether:book_of_lore", "ftbquests:book", "integrateddynamics:on_the_dynamics_of_integration", "aether:book_of_lore", "ars_nouveau:worn_notebook", "ae2:guide", "occultism:dictionary_of_spirits", "solcarrot:food_book", "occultism:dictionary_of_spirits"]
+	#Whitelisted names
+	names = []
+	#Mod aliases
+	aliases = []
+	#Blacklisted mods
+	exclude = []
+	#Blacklisted items
+	exclude_items = []
+	#Whitelisted item tags
+	include_item_tags = []
+
