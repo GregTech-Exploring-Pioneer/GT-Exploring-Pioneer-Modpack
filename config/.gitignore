@@ -8,6 +8,7 @@ MouseTweaks.cfg
 oculus.properties
 sodium-extra-options.json
 sodium-extra.properties
+embeddium*
 
 *-client.toml
 Mekanism/client.toml
