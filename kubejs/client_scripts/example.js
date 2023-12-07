@@ -4,3 +4,6 @@
 
 console.info('Hello, World! (Loaded client scripts)')
 
+ItemEvents.tooltip(event => {
+    event.add('minecraft:stone', [Text.ofString('测试').color(Color.AQUA)])
+})
