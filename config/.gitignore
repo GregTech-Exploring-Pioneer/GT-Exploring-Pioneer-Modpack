@@ -1,6 +1,13 @@
 ModernUI/
 jade/
 jei/
+
+emi.css
+ias.json
+MouseTweaks.cfg
 oculus.properties
 sodium-extra-options.json
 sodium-extra.properties
+
+*-client.toml
+Mekanism\client.toml

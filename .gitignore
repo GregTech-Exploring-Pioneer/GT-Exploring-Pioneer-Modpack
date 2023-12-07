@@ -13,6 +13,11 @@ patchouli_data.json
 rhino.local.properties
 usercache.json
 usernamecache.json
+GT.jar
+GT.json
+hmclversion.cfg
+log4j2.xml
+modpack.cfg
 
 *.bak
 
