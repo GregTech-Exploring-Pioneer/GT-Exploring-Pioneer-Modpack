@@ -19,11 +19,11 @@ hmclversion.cfg
 log4j2.xml
 modpack.cfg
 
-*.bak
-
 # include configs
 !config/
 !config/**
 
 !kubejs/
 !kubejs/**
+
+*.bak
