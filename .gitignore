@@ -19,4 +19,5 @@ usernamecache.json
 !config/**
 
 !kubejs/
+!kubejs/**
 
