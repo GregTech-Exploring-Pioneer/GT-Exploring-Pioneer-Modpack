@@ -12,3 +12,5 @@ embeddium*
 
 *-client.toml
 Mekanism/client.toml
+
+!aether-client.toml
