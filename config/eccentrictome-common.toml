@@ -6,7 +6,7 @@
 	#Disable overlay previewing tome conversion
 	disable_overlay = false
 	#Whitelisted items
-	items = ["botania:lexicon", "aether:book_of_lore", "ftbquests:book", "integrateddynamics:on_the_dynamics_of_integration", "aether:book_of_lore", "ars_nouveau:worn_notebook", "ae2:guide", "occultism:dictionary_of_spirits", "solcarrot:food_book", "occultism:dictionary_of_spirits"]
+	items = ["botania:lexicon", "aether:book_of_lore", "ftbquests:book", "integrateddynamics:on_the_dynamics_of_integration", "aether:book_of_lore", "ars_nouveau:worn_notebook", "ae2:guide", "occultism:dictionary_of_spirits", "solcarrot:food_book", "occultism:dictionary_of_spirits", "ad_astra:astrodux", "patchouli:guide_book"]
 	#Whitelisted names
 	names = []
 	#Mod aliases
