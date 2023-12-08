@@ -12,5 +12,6 @@ embeddium*
 
 *-client.toml
 Mekanism/client.toml
+ferritecore-mixin.toml
 
 !aether-client.toml

@@ -1,11 +1,8 @@
 {
   "modPriorities": [
     "minecraft",
+    "gtceu",
     "kubejs",
-    "crafttweaker",
-    "create",
-    "thermal",
-    "immersiveengineering",
     "mekanism"
   ],
   "stoneStrata": [
