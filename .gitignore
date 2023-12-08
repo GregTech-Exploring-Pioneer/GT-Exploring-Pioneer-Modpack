@@ -27,3 +27,4 @@ modpack.cfg
 !kubejs/**
 
 *.bak
+*.log
