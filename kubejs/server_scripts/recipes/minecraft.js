@@ -30,4 +30,8 @@ ServerEvents.recipes(event => {
     }
 
     colors.forEach(c => add_bed(c))
+
+    event.remove({id: 'aether:skyroot_chest'})
+    event.remove({id: 'ars_nouveau:archwood_to_chest'})
+
 })
