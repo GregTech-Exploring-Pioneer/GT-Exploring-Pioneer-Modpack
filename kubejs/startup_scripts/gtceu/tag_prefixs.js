@@ -1,7 +1,7 @@
-const $BlockTags = Java.loadClass('net.minecraft.tags.BlockTags')
-const $AD_ModBlocks = Java.loadClass('earth.terrarium.ad_astra.common.registry.ModBlocks')
-
 GTCEuStartupEvents.registry('gtceu:tag_prefix', event => {
+    const $BlockTags = Java.loadClass('net.minecraft.tags.BlockTags')
+    const $AD_ModBlocks = Java.loadClass('earth.terrarium.ad_astra.common.registry.ModBlocks')
+
     TagPrefix.oreTagPrefix('moon_stone')
     .langValue('Moon %s Ore')
     .materialIconType(GTMaterialIconType.ore)
