@@ -1,4 +1,5 @@
 GTCEuStartupEvents.registry('gtceu:world_gen_layer', event => {
+    // ad_astra
     event.create('ad')
         .target(['ad_astra:moon_stone', 'ad_astra:venus_stone', 'ad_astra:mars_stone', 'minecraft:blackstone', 'minecraft:basalt', 'ad_astra:mercury_stone', 'minecraft:deepslate', 'ad_astra:glacio_stone', 'minecraft:soul_soil'])
         .addDimension('ad_astra:moon')
@@ -7,4 +8,8 @@ GTCEuStartupEvents.registry('gtceu:world_gen_layer', event => {
         .addDimension('ad_astra:mercury')
         .addDimension('ad_astra:glacio')
 
+    // 暮色森林
+    event.create('tf')
+        .target(['minecraft:stone'])
+        .addDimension('twilightforest:twilight_forest')
 })
