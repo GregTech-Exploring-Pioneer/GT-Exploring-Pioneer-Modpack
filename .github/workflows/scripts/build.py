@@ -38,13 +38,12 @@ def main():
     files = [index_path / file for file in files]
     for file in files:
         info = toml.load(file)
-        if info['filename'] in mod_list and 'curseforge' in info['update']:
+        if 'curseforge' in info['update']:
             manifest['files'].append({
                 'fileID': info['update']['curseforge']['file-id'],
                 'projectID': info['update']['curseforge']['project-id'],
                 'required': True
             })
-            mod_list.remove(info['filename'])
 
     if os.path.exists('build'):
         shutil.rmtree('build')
@@ -57,9 +56,6 @@ def main():
 
     shutil.copytree('config', 'build/overrides/config')
     shutil.copytree('kubejs', 'build/overrides/kubejs')
-
-    if len(mod_list) != 0:
-        os.mkdir('build/overrides/mods')
 
     for mod in mod_list:
         if not mod.endswith('.jar'):
