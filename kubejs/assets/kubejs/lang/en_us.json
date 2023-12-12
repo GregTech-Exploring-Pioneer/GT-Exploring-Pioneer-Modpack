@@ -2,5 +2,9 @@
     "material.desh": "Desh",
     "material.infinity": "Infinity",
     "material.infinity_catalyst": "Infinity Catalyst",
-    "material.space_neutronium": "Space Neutronium"
+    "material.space_neutronium": "Space Neutronium",
+    "item.kubejs.twilight_crystal": "Twilight Crystal",
+    "tooltip.kubejs.circuit": "Circuit",
+    "tooltip.kubejs.twilight_crystal": "Need use Twilight Crystal to activate the twilight portal",
+    "tooltip.kubejs.tool_disabled": "This tool has been disabled and it only used for crafting"
 }

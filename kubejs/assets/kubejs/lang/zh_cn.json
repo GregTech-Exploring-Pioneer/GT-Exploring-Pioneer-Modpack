@@ -2,5 +2,9 @@
     "material.desh": "戴斯",
     "material.infinity": "无尽",
     "material.infinity_catalyst": "无尽催化剂",
-    "material.space_neutronium": "中子"
+    "material.space_neutronium": "中子",
+    "item.kubejs.twilight_crystal": "暮色水晶",
+    "tooltip.kubejs.circuit": "电路板",
+    "tooltip.kubejs.twilight_crystal": "需要暮色水晶来激活暮色传送门",
+    "tooltip.kubejs.tool_disabled": "该工具已被禁用，仅用于合成"
 }
