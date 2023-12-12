@@ -1,0 +1,13 @@
+filename = 'SmartBrainLib-forge-1.20.1-1.12.jar'
+name = 'SmartBrainLib'
+side = 'both'
+
+[download]
+hash = 'cb151aa391d1ea3c053f9249381b0a3944da7186'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4763247
+project-id = 661293

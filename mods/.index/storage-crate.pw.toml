@@ -1,0 +1,13 @@
+filename = '[1.20.1]Storage Crate[3.0.0].jar'
+name = 'Storage Crate'
+side = 'both'
+
+[download]
+hash = '9675543dfbb5d6a91031338b69e5adf188e69411'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4783986
+project-id = 919621

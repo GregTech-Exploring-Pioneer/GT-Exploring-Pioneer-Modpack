@@ -1,0 +1,13 @@
+filename = 'InGameAccountSwitcher-Forge-1.20-8.0.2.jar'
+name = 'In-Game Account Switcher'
+side = 'both'
+
+[download]
+hash = 'c96f5792355f4b7fc247a30ee4fb8deb50e2a18d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4589928
+project-id = 232676

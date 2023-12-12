@@ -1,0 +1,13 @@
+filename = 'IconExporter-1.20.1-1.2.5.jar'
+name = 'IconExporter'
+side = 'both'
+
+[download]
+hash = 'f40788ab0d3efcb324206c16bda1069dfa0a83f7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4806238
+project-id = 327048

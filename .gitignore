@@ -26,5 +26,11 @@ modpack.cfg
 !kubejs/
 !kubejs/**
 
+!.github/
+!.github/**
+
+!mods/
+!mods/**
+
 *.bak
 *.log

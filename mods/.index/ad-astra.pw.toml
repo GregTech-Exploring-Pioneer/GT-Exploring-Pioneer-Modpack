@@ -1,0 +1,13 @@
+filename = 'ad_astra-forge-1.20.1-1.15.5.jar'
+name = 'Ad Astra'
+side = 'both'
+
+[download]
+hash = '4f1e5a074f39c3dcf2ef38a44415f9611cade6cf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4894852
+project-id = 635042

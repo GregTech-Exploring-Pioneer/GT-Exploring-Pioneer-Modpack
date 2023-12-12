@@ -1,0 +1,13 @@
+filename = "[NeoLexForge 1.20.1]MomentariyModder'Applications[5.3.1].jar"
+name = "MomentariyModder'Applications"
+side = 'both'
+
+[download]
+hash = '7ff2804d2ffd8e579fd84b0c505ad074b0152ec3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4886884
+project-id = 353302
