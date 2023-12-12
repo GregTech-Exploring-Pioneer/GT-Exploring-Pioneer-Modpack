@@ -57,6 +57,9 @@ def main():
     shutil.copytree('config', 'build/overrides/config')
     shutil.copytree('kubejs', 'build/overrides/kubejs')
 
+    if len(mod_list) != 0:
+        os.mkdir('build/overrides/mods')
+
     for mod in mod_list:
         if not mod.endswith('.jar'):
             continue
