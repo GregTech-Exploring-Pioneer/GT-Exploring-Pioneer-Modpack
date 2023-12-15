@@ -17,6 +17,7 @@ GTCEuStartupEvents.registry('gtceu:material', evnet => {
         .ingot().fluid().ore().dust()
         .color(0xFFFFFF).iconSet(GTMaterialIconSet.getByName('infinity'))
         .element(GTElements.get('Infinity'))
+        .cableProperties(GTValues.V[GTValues.MAX], 8192, 0, true)
         .blastTemp(10800, $GasTier.HIGHEST, GTValues.VA[GTValues.UHV], 54562)
         .appendFlags(GTMaterials.EXT2_METAL, GTMaterialFlags.GENERATE_ROTOR, GTMaterialFlags.GENERATE_DENSE, GTMaterialFlags.GENERATE_SMALL_GEAR, GTMaterialFlags.GENERATE_FRAME)
         
