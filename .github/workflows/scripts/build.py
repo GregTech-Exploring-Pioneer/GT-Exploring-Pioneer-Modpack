@@ -14,11 +14,10 @@ def main():
     with open('modpack_info.json', encoding='utf-8') as f:
         pack_info = json.load(f)
     manifest = {
-        'author': pack_info['author'],
-        'files': [],
         'manifestType': 'minecraftModpack',
         'manifestVersion': 1,
         'minecraft': {
+            "version": "1.20.1",
             'modLoaders': [
                 {
                     'id': 'neoforge-47.1.81',
@@ -27,8 +26,10 @@ def main():
             ]
         },
         'name': pack_info['name'],
+        'author': pack_info['author'],
+        'version': pack_info['version'] if build_number is None else pack_info['version'] + f'+build.{build_number}',
+        'files': [],
         'overrides': 'overrides',
-        'version': pack_info['version'] if build_number is None else pack_info['version'] + f'+build.{build_number}'
     }
 
     mod_list = os.listdir(mod_path)
