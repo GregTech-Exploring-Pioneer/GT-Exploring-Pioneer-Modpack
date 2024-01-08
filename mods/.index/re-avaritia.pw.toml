@@ -1,13 +1,13 @@
-filename = 'Re-Avaritia-forged-1.20.1-1.3.3.jar'
-name = 'Re:Avaritia'
+filename = 'Re-Avaritia-forged-1.20.1-1.3.4.jar'
+name = 'Re-Avaritia-forged'
 side = 'both'
 
 [download]
-hash = 'c571068874f7aeb09df53dc91c449dc9909475ab'
+hash = 'd59b83b5e0d0b23bc709e3eceb070e9b2d4b3d3a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 4866104
+file-id = 4994998
 project-id = 623969

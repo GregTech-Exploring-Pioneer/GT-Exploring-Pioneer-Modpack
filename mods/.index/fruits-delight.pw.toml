@@ -1,13 +1,13 @@
-filename = 'fruitsdelight-1.0.0.jar'
+filename = 'fruitsdelight-1.0.3.jar'
 name = 'Fruits Delight'
 side = 'both'
 
 [download]
-hash = '24f12ce89c8b19c1ddad2f2bd991544bad47d73b'
+hash = 'dc2e67d9ccb62c18651c8b6c9a9701924adf3bba'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 4907999
+file-id = 4997159
 project-id = 943774

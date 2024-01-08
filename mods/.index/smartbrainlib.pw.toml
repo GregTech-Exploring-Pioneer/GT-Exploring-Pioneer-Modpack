@@ -1,13 +1,13 @@
-filename = 'SmartBrainLib-forge-1.20.1-1.12.jar'
+filename = 'SmartBrainLib-forge-1.20.1-1.13.jar'
 name = 'SmartBrainLib'
 side = 'both'
 
 [download]
-hash = 'cb151aa391d1ea3c053f9249381b0a3944da7186'
+hash = 'c777743cdae9a8d8f757e82a4ff3f515498eab1d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 4763247
+file-id = 4981397
 project-id = 661293

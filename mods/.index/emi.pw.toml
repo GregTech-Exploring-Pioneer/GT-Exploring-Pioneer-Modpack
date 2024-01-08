@@ -1,13 +1,13 @@
-filename = 'emi-1.0.27+1.20.1+forge.jar'
+filename = 'emi-1.0.30+1.20.1+forge.jar'
 name = 'EMI'
 side = 'both'
 
 [download]
-hash = 'd9daf22bad571dcd074a71894976485f29c7a831'
+hash = '0b73f19e230cec6ce99d9a7433d7b7b68d94c9c9'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 4923777
+file-id = 5011031
 project-id = 580555

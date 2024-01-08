@@ -1,13 +1,13 @@
-filename = 'lootjs-forge-1.20.1-2.10.3.jar'
-name = 'LootJS: KubeJS Addon'
+filename = 'lootjs-forge-1.20.1-2.10.4.jar'
+name = 'LootJS'
 side = 'both'
 
 [download]
-hash = '2c1800e7dc5406e0dc67391ca6349c20b72ebd6d'
+hash = '42f4390034e943e0ccfd667fffc9d121aed4a132'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 4771655
+file-id = 4936333
 project-id = 570630
